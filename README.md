@@ -1,5 +1,16 @@
 # Image Annotator
 
+![OS](https://img.shields.io/badge/OS-Android_8.0+-blue?style=flat-square&logo=android)
+![Language](https://img.shields.io/badge/Language-Flutter_+_Kotlin-green?style=flat-square&logo=flutter)
+![License](https://img.shields.io/badge/License-PolyForm--NC_1.0.0-red?style=flat-square)
+![Latest Release](https://img.shields.io/github/v/release/ArtLife-Software/Image_Annotator?style=flat-square&color=blue)
+![Downloads](https://img.shields.io/github/downloads/ArtLife-Software/Image_Annotator/total?style=flat-square&logo=github)
+
+![正體中文](https://img.shields.io/badge/Locale-%F0%9F%87%B9%F0%9F%87%B3%20%E6%AD%A3%E9%AB%94%E4%B8%AD%E6%96%87-orange?style=flat-square)
+![English](https://img.shields.io/badge/Locale-%F0%9F%87%BA%F0%9F%87%B8%20English-blue?style=flat-square)
+![日本語](https://img.shields.io/badge/Locale-%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E8%AA%9E-red?style=flat-square)
+![한국어](https://img.shields.io/badge/Locale-%F0%9F%87%B0%F0%9F%87%B7%20%ED%95%9C%EA%B5%AD%EC%96%B4-green?style=flat-square)
+
 > Non-destructive image annotation for Android — annotate, save, edit, and export without altering the original.
 
 > 非破壞性圖片標注工具（Android）——標注、儲存、修改、匯出，原始圖片完全不受影響。
