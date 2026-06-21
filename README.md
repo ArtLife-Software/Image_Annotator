@@ -76,7 +76,7 @@ Annotations are saved as separate XML files alongside the original image. The or
 
 ---
 
-1. 從 [Releases](../../releases) 下載最新 APK
+1. 從 [Releases](../../releases/latest) 下載最新 APK
 2. 在裝置上開啟「允許安裝未知來源應用程式」
 3. 安裝 APK
 
