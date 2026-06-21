@@ -4,7 +4,7 @@
 ![Language](https://img.shields.io/badge/Language-Flutter_+_Kotlin-green?style=flat-square&logo=flutter)
 ![License](https://img.shields.io/badge/License-PolyForm--NC_1.0.0-red?style=flat-square)
 ![Latest Release](https://img.shields.io/github/v/release/ArtLife-Software/Image_Annotator?style=flat-square&color=blue)
-![Downloads](https://img.shields.io/github/downloads/ArtLife-Software/ImageAnnotator/total?tyle=ator=flat-square&logo=github)
+![Downloads](https://img.shields.io/github/downloads/ArtLife-Software/Image_Annotator/total?tyle=ator=flat-square&logo=github)
 
 ![正體中文](https://img.shields.io/badge/Locale-%F0%9F%87%B9%F0%9F%87%B3%20%E6%AD%A3%E9%AB%94%E4%B8%AD%E6%96%87-orange?style=flat-square)
 ![English](https://img.shields.io/badge/Locale-%F0%9F%87%BA%F0%9F%87%B8%20English-blue?style=flat-square)
